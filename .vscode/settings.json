@@ -1,0 +1,22 @@
+{
+  "workbench.colorTheme": "Tomorrow Night Blue",
+  "files.autoSave": "afterDelay",
+  "window.zoomLevel": 0,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "javascript": "html"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "prettier.eslintIntegration": true,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.singleQuote": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "editor.suggest.snippetsPreventQuickSuggestions": true
+}
